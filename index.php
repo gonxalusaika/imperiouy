@@ -8,7 +8,7 @@
     <!-- Bootstrap CSS -->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <title>Hello, world!</title>
+    <title>Imperio, expandiendo competencias</title>
   </head>
   <body style="background: #aaa; margin-top:15px; margin-bottom:15px">
 	<div class="container text-center" style="background: white; padding-top:30px; padding-bottom:30px; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);">
